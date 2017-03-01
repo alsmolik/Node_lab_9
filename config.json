@@ -1,0 +1,11 @@
+{
+    "db": {
+        "driver": "mysql",
+        "username": "root",
+        "password": "",
+        "host": "localhost",
+        "port": "3306",
+        "dbname": "DNS"
+    },
+    "secret_key": "superSecret"
+}
